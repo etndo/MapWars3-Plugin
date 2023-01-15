@@ -1,0 +1,10 @@
+name: MapWars3
+version: '1.0-SNAPSHOT'
+main: me.etendo.mapwars3.main
+api-version: 1.19
+authors: [ etendo ]
+description: MapWars3 Plugin
+website: etendo.me
+commands:
+  timer:
+    permission: mapwars.command.timer

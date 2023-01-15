@@ -1,0 +1,11 @@
+me\etendo\mapwars3\listeners\QuitListener.class
+me\etendo\mapwars3\main.class
+me\etendo\mapwars3\scoreboard\Scoreboard.class
+me\etendo\mapwars3\timer\Timer.class
+me\etendo\mapwars3\listeners\DeathListener.class
+me\etendo\mapwars3\timer\Timer$1.class
+me\etendo\mapwars3\commands\TimerCommands.class
+me\etendo\mapwars3\listeners\JoinListener.class
+me\etendo\mapwars3\scoreboard\ScoreboardBuilder.class
+me\etendo\mapwars3\scoreboard\Scoreboard$1.class
+me\etendo\mapwars3\scoreboard\EntryName.class
